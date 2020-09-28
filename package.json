@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "taro-ui": "^3.0.0-alpha.3"
+  }
+}
